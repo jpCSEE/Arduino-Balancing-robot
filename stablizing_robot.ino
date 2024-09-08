@@ -6,7 +6,7 @@ Stablizing/balancing robot
 Program to self balance a two wheeled robot by driving two 
 motors based on input from MPU6050 gyroscope/accelerometer.
 Also will avoid obstacles using ultra sonic distance sensor.
-Code by midhun_s from:
+Original Code by midhun_s from:
 https://www.instructables.com/Arduino-Self-Balancing-Robot-1/
 
 */
